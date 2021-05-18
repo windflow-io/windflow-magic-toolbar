@@ -1,14 +1,14 @@
 <template>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+
     <windflow-magic-toolbar/>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
-
-import WindflowMagicToolbar from "./components/WindflowMagicToolbar.vue";
+import WindflowMagicToolbar from '@windflow/windflow-magic-toolbar'
 
 export default defineComponent({
     name: 'App',

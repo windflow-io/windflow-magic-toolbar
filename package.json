@@ -1,5 +1,6 @@
 {
     "name": "@windflow/windflow-magic-toolbar",
+    "version": "1.0.4",
     "files": [
         "dist"
     ],
@@ -11,7 +12,6 @@
             "require": "./dist/windflow-magic-toolbar.umd.js"
         }
     },
-    "version": "1.0.1",
     "description": "The Windflow Magic Toolbar allows one add #edit to a url and visually manage and edit any components or its data.",
     "scripts": {
         "dev": "vite",
@@ -23,6 +23,7 @@
         "url": "git+https://github.com/windflow-io/windflow-magic-toolbar.git"
     },
     "dependencies": {
+        "@windflow/windflow-magic-toolbar": "1.0.4",
         "vue": "^3.0.5"
     },
     "devDependencies": {
