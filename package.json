@@ -5,10 +5,10 @@
         "dist"
     ],
     "main": "./dist/windflow-magic-toolbar.umd.js",
-    "module": "./dist/windflow-magic-toolbar.esm.js",
+    "module": "./dist/windflow-magic-toolbar.es.js",
     "exports": {
         ".": {
-            "import": "./dist/windflow-magic-toolbar.esm.js",
+            "import": "./dist/windflow-magic-toolbar.es.js",
             "require": "./dist/windflow-magic-toolbar.umd.js"
         }
     },
