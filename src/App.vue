@@ -8,7 +8,7 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
-import WindflowMagicToolbar from '@windflow/windflow-magic-toolbar'
+import WindflowMagicToolbar from './components/WindflowMagicToolbar.vue'
 
 export default defineComponent({
     name: 'App',

@@ -1,6 +1,6 @@
 {
     "name": "@windflow/windflow-magic-toolbar",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "files": [
         "dist"
     ],
@@ -23,7 +23,6 @@
         "url": "git+https://github.com/windflow-io/windflow-magic-toolbar.git"
     },
     "dependencies": {
-        "@windflow/windflow-magic-toolbar": "1.0.4",
         "vue": "^3.0.5"
     },
     "devDependencies": {
