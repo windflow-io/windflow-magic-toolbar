@@ -2,12 +2,10 @@
     <p>I am a Windflow layout</p>
 </template>
 
-<script>
-export default {
-    name: "WindflowLayout"
-}
+<script lang="ts">
+    import {defineComponent} from "vue";
+
+    export default defineComponent({
+        name: "WindflowLayout"
+    })
 </script>
-
-<style scoped>
-
-</style>

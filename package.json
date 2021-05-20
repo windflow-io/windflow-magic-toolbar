@@ -23,9 +23,11 @@
         "url": "git+https://github.com/windflow-io/windflow-magic-toolbar.git"
     },
     "dependencies": {
+        "@windflow/windflow-magic-toolbar": "^1.0.9",
         "vue": "^3.0.5"
     },
     "devDependencies": {
+        "@types/node": "^15.3.1",
         "@vitejs/plugin-vue": "^1.2.2",
         "@vue/compiler-sfc": "^3.0.5",
         "typescript": "^4.1.3",

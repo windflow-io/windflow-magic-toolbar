@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9919be77-81f9-43c5-a136-616234efd62c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/core/WindflowButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/CodeIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/CogIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/EditIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/GripVerticalIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/PaletteIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/PlusIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/SaveIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/TimesIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/TrashIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/core/icons/UploadIcon.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/export.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/export.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WindflowApp.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WindflowApp.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WindflowArea.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WindflowArea.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WindflowLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WindflowLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WindflowMagicToolbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WindflowMagicToolbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,7 +65,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -56,34 +77,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
-  </component>
-  <component name="RunManager" selected="npm.build">
-    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="npm.dev" />
-      <item itemvalue="npm.build" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,7 +99,8 @@
       <workItem from="1621452986901" duration="84000" />
       <workItem from="1621453082980" duration="68000" />
       <workItem from="1621453253820" duration="1651000" />
-      <workItem from="1621510072205" duration="299000" />
+      <workItem from="1621510072205" duration="3190000" />
+      <workItem from="1621514145591" duration="159000" />
     </task>
     <servers />
   </component>

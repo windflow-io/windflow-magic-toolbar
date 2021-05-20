@@ -3,12 +3,10 @@
     <slot/>
 </template>
 
-<script>
-export default {
-    name: "WindflowApp"
-}
+<script lang="ts">
+    import {defineComponent} from "vue";
+
+    export default defineComponent({
+        name: "WindflowApp"
+    })
 </script>
-
-<style scoped>
-
-</style>

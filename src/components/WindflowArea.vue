@@ -2,12 +2,10 @@
     <p>I am a windflow area</p>
 </template>
 
-<script>
-export default {
-    name: "WindflowArea"
-}
+<script lang="ts">
+    import {defineComponent} from "vue";
+
+    export default defineComponent({
+        name: "WindflowArea"
+    })
 </script>
-
-<style scoped>
-
-</style>
