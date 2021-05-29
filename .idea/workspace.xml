@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9919be77-81f9-43c5-a136-616234efd62c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/WindflowApplication.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stubs/components/Hero.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stubs/components/Navbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stubs/components/StackedLayout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WindflowApp.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WindflowLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WindflowLayout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WindflowMagicToolbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WindflowMagicToolbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/export.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/export.ts" afterDir="false" />
-    </list>
+    <list default="true" id="9919be77-81f9-43c5-a136-616234efd62c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +89,7 @@
       <workItem from="1621688454256" duration="1592000" />
       <workItem from="1621786080974" duration="4359000" />
       <workItem from="1621868902187" duration="2474000" />
-      <workItem from="1622269520883" duration="587000" />
+      <workItem from="1622269520883" duration="891000" />
     </task>
     <servers />
   </component>
