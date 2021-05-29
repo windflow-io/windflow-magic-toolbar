@@ -1,11 +1,14 @@
 <template>
-    <p>I am a Windflow layout</p>
+    <component :is="is"/>
 </template>
 
 <script lang="ts">
     import {defineComponent} from "vue";
+    import StackedLayout from '@/stubs/components/StackedLayout.vue'
 
     export default defineComponent({
-        name: "WindflowLayout"
+        name: "WindflowLayout",
+        components: {StackedLayout},
+        props: ['is']
     })
 </script>

@@ -5,25 +5,25 @@
                 <grip-vertical-icon/>
             </windflow-button>
 
-            <div class="w-0 mr-1 border-r py-2 border-gray-500"></div>
+            <div class="w-0 mr-1 border-r py-2 border-gray-300"></div>
 
-            <windflow-button @mouseover="statusbarText = 'Add component'" @mouseout="statusbarText = ''">
+            <windflow-button @mouseover="statusbarText = 'Add component to page!'" @mouseout="statusbarText = ''">
                 <plus-icon/>
             </windflow-button>
 
-            <windflow-button @mouseover="statusbarText = 'Edit content'" @mouseout="statusbarText = ''">
+            <windflow-button @mouseover="statusbarText = 'Edit component content'" @mouseout="statusbarText = ''">
                 <edit-icon/>
             </windflow-button>
 
-            <windflow-button @mouseover="statusbarText = 'Edit code'" @mouseout="statusbarText = ''" selected="bg-blue-200 hover:bg-blue-300">
+            <windflow-button @mouseover="statusbarText = 'Edit component code'" @mouseout="statusbarText = ''">
                 <code-icon/>
             </windflow-button>
 
-            <windflow-button @mouseover="statusbarText = 'Edit theme colours'" @mouseout="statusbarText = ''">
+            <windflow-button @mouseover="statusbarText = 'Switch component colours'" @mouseout="statusbarText = ''">
                 <palette-icon/>
             </windflow-button>
 
-            <windflow-button @mouseover="statusbarText = 'Remove component'" @mouseout="statusbarText = ''">
+            <windflow-button @mouseover="statusbarText = 'Remove component from page (does not delete)'" @mouseout="statusbarText = ''">
                 <trash-icon/>
             </windflow-button>
 
@@ -31,7 +31,7 @@
                 <save-icon/>
             </windflow-button>
 
-            <windflow-button @mouseover="statusbarText = 'Publish all'" @mouseout="statusbarText = ''">
+            <windflow-button @mouseover="statusbarText = 'Publish page'" @mouseout="statusbarText = ''">
                 <upload-icon/>
             </windflow-button>
 
