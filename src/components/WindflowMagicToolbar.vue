@@ -7,7 +7,7 @@
 
             <div class="w-0 mr-1 border-r py-2 border-gray-300"></div>
 
-            <windflow-button @mouseover="statusbarText = 'Add component to page!'" @mouseout="statusbarText = ''">
+            <windflow-button @mouseover="statusbarText = 'Add component to page'" @mouseout="statusbarText = ''">
                 <plus-icon/>
             </windflow-button>
 
